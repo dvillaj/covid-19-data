@@ -2,10 +2,14 @@
 
 Data Manipulation & Cleaning example with Pandas and Covid-19 dataset
 
-## Notebook
+## Source
+
+[COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+
+## Tranformation Process
 
 [Covid-19 Notebook](./Covid_19.ipynb)
 
 ## Result
 
-The clean data generated with this process can be accessed [here](./All_data.xlsx)
+The clean data can be accessed [here](./All_data.xlsx)
