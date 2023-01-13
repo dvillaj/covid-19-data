@@ -1,4 +1,4 @@
-# Pandas examples
+# Pandas and Covid-19
 
 Data Manipulation & Cleaning example with Pandas and Covid-19 dataset
 
